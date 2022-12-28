@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Live Server
 
 Live: [Emoji](https://filter-emoji.netlify.app/)
 
